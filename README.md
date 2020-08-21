@@ -5,5 +5,5 @@ It works with robot sensor measurements and movement to create a map of an envir
 
 Below is an example of a 2D robot world with landmarks located and found using only sensor and motion data collected by that robot. <br>
  <p align="center">
-<img src="https://github.com/koles289/Project-Landmark-Detection-Tracking-SLAM-/blob/master/Graph.png" width="400">
+<img src="https://github.com/koles289/Project-Landmark-Detection-Tracking-SLAM-/blob/master/Graph.png" width="800">
 </p>
